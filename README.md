@@ -11,18 +11,18 @@ We help businesses scale faster without increasing headcount by building AI auto
 ## Founders
 
 ### Abdul Mohamed
-**Co-Founder, UltiMedia** — 8+ years in digital marketing and systems strategy
+**Co-Founder, UltiMedia** - 8+ years in digital marketing and systems strategy
 
 - LinkedIn: [linkedin.com/in/abdul-mohamed-b3ba6414a](https://www.linkedin.com/in/abdul-mohamed-b3ba6414a)
 - Instagram: [@abdul_g_mohamed](https://www.instagram.com/abdul_g_mohamed)
 - GitHub: [@AbdulMohamed1994](https://www.github.com/AbdulMohamed1994)
 
 ### Riyaadh Slarmie
-**Co-Founder, UltiMedia** — AI Workflow Engineer & Systems Architect
-**Founder, Reddy AI Agentic AI Academy** — Autonomous agency scaling for SME markets
+**Co-Founder, UltiMedia** - AI Workflow Engineer & Systems Architect
+**Founder, Reddy AI Agentic AI Academy** - Autonomous agency scaling for SME markets
 **SEO, GEO & AEO Specialist**
 
-Building agentic AI architecture, autonomous workflows, and SEO/GEO systems. Not a traditional marketer — orchestrates systems.
+Building agentic AI architecture, autonomous workflows, and SEO/GEO systems. Not a traditional marketer - orchestrates systems.
 
 - LinkedIn: [linkedin.com/in/moegamat-riyaadh-slarmie-207a43237](https://linkedin.com/in/moegamat-riyaadh-slarmie-207a43237)
 - Facebook: [facebook.com/moegamat.riyaadh](https://www.facebook.com/moegamat.riyaadh)
@@ -33,7 +33,7 @@ Both founders are based in Cape Town, South Africa.
 
 ---
 
-## UltiMedia — Social & Web Presence
+## UltiMedia - Social & Web Presence
 
 - Website: [ultimedia.co.za](https://www.ultimedia.co.za/)
 - GitHub: [@ultimedia2025-gif](https://github.com/ultimedia2025-gif)
@@ -63,9 +63,9 @@ Explore the full [Services](https://www.ultimedia.co.za/services/) page.
 
 ## Client Work
 
-- **[Engaged Learning Academy](https://engagedlearningacademy.co.za)** — Scalable LMS architecture balancing complex educational tracking with a seamless user experience. **Case study:** a hyper-local SEO rebuild ([Tutor LMS](https://www.ultimedia.co.za/case-study-online-schooling-in-western-cape/) on WordPress) drove a 150% surge in organic traffic for online schooling searches in the Western Cape. [Read the case study →](https://www.ultimedia.co.za/case-study-online-schooling-in-western-cape/)
-- **[MP Audio](https://Mpaudio.co.za)** — Capturing the precision of sound engineering through a high-performance digital interface.
-- **[RA Projex](https://Raprojex.co.za)** — An industrial-grade layout designed to mirror the reliability of large-scale construction management.
+- **[Engaged Learning Academy](https://engagedlearningacademy.co.za)** - Scalable LMS architecture balancing complex educational tracking with a seamless user experience. **Case study:** a hyper-local SEO rebuild ([Tutor LMS](https://www.ultimedia.co.za/case-study-online-schooling-in-western-cape/) on WordPress) drove a 150% surge in organic traffic for online schooling searches in the Western Cape. [Read the case study →](https://www.ultimedia.co.za/case-study-online-schooling-in-western-cape/)
+- **[MP Audio](https://Mpaudio.co.za)** - Capturing the precision of sound engineering through a high-performance digital interface.
+- **[RA Projex](https://Raprojex.co.za)** - An industrial-grade layout designed to mirror the reliability of large-scale construction management.
 
 Client testimonials are available on the [About](https://www.ultimedia.co.za/about/) page.
 
@@ -73,7 +73,7 @@ Client testimonials are available on the [About](https://www.ultimedia.co.za/abo
 
 ## Reddy AI Agentic AI Academy
 
-**[reddyai.co.za](https://reddyai.co.za/)** — Founded by Riyaadh Slarmie. Practical agentic AI education for South African SME owners and operators who want to build and run their own autonomous workflows rather than just use off-the-shelf AI tools.
+**[reddyai.co.za](https://reddyai.co.za/)** - Founded by Riyaadh Slarmie. Practical agentic AI education for South African SME owners and operators who want to build and run their own autonomous workflows rather than just use off-the-shelf AI tools.
 
 - **Full access: R89.99/month**
 - Focus areas: agentic AI fundamentals, n8n workflow design, Claude API + MCP integration, SEO/GEO/AEO practice
@@ -82,7 +82,7 @@ Client testimonials are available on the [About](https://www.ultimedia.co.za/abo
 
 ## Insights & Resources (Blog)
 
-The [UltiMedia Blog](https://www.ultimedia.co.za/blog/) — AI insights, business automation, and agentic AI architecture, written for South African business owners.
+The [UltiMedia Blog](https://www.ultimedia.co.za/blog/) - AI insights, business automation, and agentic AI architecture, written for South African business owners.
 
 **Foundations & Strategy**
 - [What Is an AI Agent for Business?](https://www.ultimedia.co.za/what-is-an-ai-agent-for-business/)
@@ -137,13 +137,13 @@ The [UltiMedia Blog](https://www.ultimedia.co.za/blog/) — AI insights, busines
 `n8n` · `Claude API` · `MCP (Model Context Protocol)` · `CrewAI` · `Vertex AI` · `WordPress` · `Elementor Pro` · `FluentCRM` · `FluentForms Pro` · `Novamira MCP` · `Google Cloud` · `Google Ads` · `Google Analytics` · `Search Console` · `Google Workspace` · `Looker Studio` · `BigQuery` · `Figma` · `VS Code` · `Cursor`
 
 ### Internal Tools
-**OptiPrompt** — internal AI prompt optimisation engine, co-founded by Abdul and Riyaadh at UltiMedia.
+**OptiPrompt** - internal AI prompt optimisation engine, Founded by Abdul and Co-founded by Riyaadh at UltiMedia.
 
 ---
 
 ## Our Values
 
-UltiMedia operates on Islamic principles of honesty, justice, and good conduct. We act in our clients' best interest and business growth, and never compromise ethics for profit — measurable ROI, data privacy, and clean architecture come first.
+UltiMedia operates on Islamic principles of honesty, justice, and good conduct. We act in our clients' best interest and business growth, and never compromise ethics for profit - measurable ROI, data privacy, and clean architecture come first.
 
 ---
 
