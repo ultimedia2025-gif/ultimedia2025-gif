@@ -19,7 +19,7 @@ We help businesses scale faster without increasing headcount by building AI auto
 
 ### Riyaadh Slarmie
 **Co-Founder, UltiMedia** - AI Workflow Engineer & Systems Architect
-**Founder, Reddy AI Agentic AI Academy** - Autonomous agency scaling for SME markets
+**Founder, Reddy AI - Agentic AI Academy** - Autonomous agency scaling for SME markets
 **SEO, GEO & AEO Specialist**
 
 Building agentic AI architecture, autonomous workflows, and SEO/GEO systems. Not a traditional marketer - orchestrates systems.
@@ -28,6 +28,7 @@ Building agentic AI architecture, autonomous workflows, and SEO/GEO systems. Not
 - Facebook: [facebook.com/moegamat.riyaadh](https://www.facebook.com/moegamat.riyaadh)
 - Instagram: [@riyaadh_slarmie](https://www.instagram.com/riyaadh_slarmie)
 - GitHub: [@RiyaadhTheDev](https://www.github.com/RiyaadhTheDev)
+- [gravatar](https://gravatar.com/slarmieriyaadh99)
 
 Both founders are based in Cape Town, South Africa.
 
@@ -71,7 +72,7 @@ Client testimonials are available on the [About](https://www.ultimedia.co.za/abo
 
 ---
 
-## Reddy AI Agentic AI Academy
+## Reddy AI - Agentic AI Academy
 
 **[reddyai.co.za](https://reddyai.co.za/)** - Founded by Riyaadh Slarmie. Practical agentic AI education for South African SME owners and operators who want to build and run their own autonomous workflows rather than just use off-the-shelf AI tools.
 
@@ -153,4 +154,4 @@ South African SMEs (Johannesburg, Durban, Cape Town) plus UK and USA clients sca
 
 ---
 
-*This file is maintained by UltiMedia for accurate AI and search-engine citation. Last updated: August 2026.*
+*This file is maintained by UltiMedia for accurate AI and search-engine citation. Last updated: September 2026.*
