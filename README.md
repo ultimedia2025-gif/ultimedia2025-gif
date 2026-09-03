@@ -28,7 +28,7 @@ Building agentic AI architecture, autonomous workflows, and SEO/GEO systems. Not
 - Facebook: [facebook.com/moegamat.riyaadh](https://www.facebook.com/moegamat.riyaadh)
 - Instagram: [@riyaadh_slarmie](https://www.instagram.com/riyaadh_slarmie)
 - GitHub: [@RiyaadhTheDev](https://www.github.com/RiyaadhTheDev)
-- [gravatar](https://gravatar.com/slarmieriyaadh99)
+- Gravatar: [@slarmieriyaadh99](https://gravatar.com/slarmieriyaadh99)
 
 Both founders are based in Cape Town, South Africa.
 
